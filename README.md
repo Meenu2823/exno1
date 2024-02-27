@@ -21,11 +21,18 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output:
-Name: Meenu.S
-Reg.NO:212223230124
+## Name: Meenu.S
+## Reg.NO:212223230124
+
+
 ![image](https://github.com/DHINESH-SEC/exno1/assets/139416219/679a55e2-421b-4142-a642-dd81056db9d1)
 ![image](https://github.com/DHINESH-SEC/exno1/assets/139416219/bb9d8ba3-04f8-44ec-8b89-1b54b94102c6)
 ![image](https://github.com/DHINESH-SEC/exno1/assets/139416219/1cecae74-c268-4853-ae79-8d5a39ec3abf)
+![image](https://github.com/Meenu2823/exno1/assets/139416219/183793f3-b320-4e26-a68b-f89e3c6c2d3e)
+![image](https://github.com/Meenu2823/exno1/assets/139416219/018fe2b7-13d6-49c9-86ee-64496de61490)
+![image](https://github.com/Meenu2823/exno1/assets/139416219/88f04191-1b64-46bb-a1c7-6ae49eb5c951)
+![image](https://github.com/Meenu2823/exno1/assets/139416219/0c770076-888c-42da-af70-8c862fcee7aa)
+
 
 
 # Result
