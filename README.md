@@ -59,4 +59,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          
+Hence the Data Cleaning process is performed successfully on the given data using python code.       
